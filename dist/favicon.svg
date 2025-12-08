@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Outer circle (dark blue) -->
+  <circle cx="100" cy="100" r="95" fill="#0d3b66" stroke="#0d3b66" stroke-width="10"/>
+  
+  <!-- Letter F (white with green outline) -->
+  <g transform="translate(60, 45)">
+    <!-- Green outline/shadow -->
+    <path d="M 5 10 L 5 140 L 25 140 L 25 90 L 60 90 L 60 70 L 25 70 L 25 30 L 70 30 L 70 10 Z" 
+          fill="#7ed957" 
+          stroke="#7ed957" 
+          stroke-width="8" 
+          stroke-linejoin="round"/>
+    
+    <!-- White fill -->
+    <path d="M 5 10 L 5 140 L 25 140 L 25 90 L 60 90 L 60 70 L 25 70 L 25 30 L 70 30 L 70 10 Z" 
+          fill="white"/>
+  </g>
+</svg>
